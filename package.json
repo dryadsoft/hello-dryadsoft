@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/dryadsoft/hello-dryadsoft",
   "scripts": {
-    "prepublishOnly": "tsc"
+    "prepublish": "tsc"
   },
   "devDependencies": {
     "typescript": "^4.3.5"
